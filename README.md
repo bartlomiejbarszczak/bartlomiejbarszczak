@@ -46,13 +46,6 @@
 
 ---
 
-### 🎵 **Now Playing on Spotify**
-<p align="center">
-  <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Playing">
-</p>
-
----
-
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bartlomiejbarszczak&theme=radical&no-frame=true&column=4">
